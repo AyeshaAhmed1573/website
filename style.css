@@ -1,0 +1,333 @@
+.container-fluid{
+    background-color: cornflowerblue;
+}
+.fa {
+    padding: 20px;
+    font-size: 100px;
+    width: 60px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px px;
+  }
+  
+.fa-facebook{
+    color: white;
+    background-color: cornflowerblue;
+    border-radius: 40px;
+    
+}
+.fa-twitter{
+    color: white;
+    background-color: cornflowerblue;
+    border-radius: 40px;
+}
+.fa-youtube{
+    color: white;
+     background-color: cornflowerblue;
+     border-radius: 40px;
+}
+.fa-instagram{
+    color: white;
+    background-color: cornflowerblue;
+    border-radius: 40px;
+}
+.fa-whatsapp{
+    color: white;
+    background-color: green;
+    border-radius: 40px;
+}
+#p1{
+    font-size: 20px;
+}
+.dropbtn {
+    background-color:black
+      color: white;
+      padding: 16px;
+      font-size: 16px;
+      border: none;
+    }
+    
+    .dropdown {
+      position: relative;
+      display: inline-block;
+    }
+    
+    .dropdown-content {
+      display: none;
+      position: absolute;
+      
+      min-width: 160px;
+      box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+      z-index: 1;
+    }
+    
+    .dropdown-content a {
+      color: black;
+      padding: 12px 16px;
+      text-decoration: none;
+      display: block;
+      background-color: white;
+    }
+    
+    .dropdown-content a:hover {background-color: #ddd;}
+    
+    .dropdown:hover .dropdown-content {display: block;}
+li{
+display: inline-block;
+padding: 8px;
+}    
+#li2:hover{
+    background-color: cornflowerblue;
+    color: white;
+    border-radius: 7px;
+}
+#div2{
+    background-color: whitesmoke;
+}
+#saylani-logo{
+    height: 70px;
+    margin-right: 540px;
+}
+#corona{
+    height: 700px;
+}
+#p2{
+    font-size: 50px;
+}
+#p3{
+    font-size: 16px;
+  color: gray;
+  margin-left: 200px;
+  margin-right: 200px;
+}
+div.slide-left {
+    width:100%;
+    overflow:hidden;
+    color: white;
+  }
+  div.slide-left p {
+    animation: infinite; 
+    color: white;
+    
+  }
+  
+  @keyframes infinite {
+    from {
+      margin-left: 100%;
+      width: 300%; 
+      color: white;
+      background-repeat: repeat;
+    }
+  
+    to {
+      margin-left: 0%;
+      width: 100%;
+    }
+  }
+  .container{
+      background-color: cornflowerblue;
+      color: white;
+  }
+  
+  
+  #food{
+      height: 80px;
+      margin-top: 30px;
+      margin-left: 80px;
+    
+  }
+ #p4{
+     font-size: 50px;
+     margin-left: 50px;
+ }
+ #p5{
+     font-size: 20px;
+     margin-left: 50px;
+ }
+ #sadqah{
+     margin-left: 80px;
+     box-shadow: 5px 5px 5px 5px gray;
+     height: 200px;
+     margin-top: 30px;
+    
+width: 200px;
+margin-right: 40px;
+ }
+ #sadqah2{
+     margin-top: 30px;
+ }
+ #p6{
+   font-size: 30px;
+color: royalblue;
+font-weight: italic;
+
+ }
+ #welfare{
+  margin-left: 80px;
+  box-shadow: 5px 5px 5px 5px gray;
+  height: 200px;
+  margin-top: 30px;
+width: 200px;
+margin-right: 40px;
+}
+#welfare2{
+  margin-top: 30px;
+}
+#p7{
+  font-size: 50px;
+}
+#logo2{
+  height: 50px;
+}
+#medical1{
+  margin-left: 80px;
+  box-shadow: 5px 5px 5px 5px gray;
+  height: 200px;
+  margin-top: 30px;
+width: 200px;
+margin-right: 40px;
+}
+#medical2{
+  margin-top: 30px;
+}
+#RO{
+  margin-left: 80px;
+  box-shadow: 5px 5px 5px 5px gray;
+  height: 200px;
+  margin-top: 30px;
+width: 200px;
+margin-right: 40px;
+}
+#RO2{
+  margin-top: 30px;
+}
+#education{
+  margin-left: 80px;
+  box-shadow: 5px 5px 5px 5px gray;
+  height: 200px;
+  margin-top: 30px;
+width: 200px;
+margin-right: 40px;
+}
+#education2{
+  margin-top: 30px;
+}
+#dastarkhwan{
+  margin-left: 80px;
+  box-shadow: 5px 5px 5px 5px gray;
+  height: 200px;
+  margin-top: 30px;
+width: 200px;
+margin-right: 40px;
+}
+#dastarkhwan2{
+  margin-top: 30px;
+}
+#p8{
+  color: royalblue;
+  font-size: 40px;
+  margin-left: 30px;
+  margin-top: 30px;
+}
+#p9{
+  font-size: 20px;
+  color: royalblue;
+  font-weight: bold;
+  
+}
+#col4{
+  background-color: whitesmoke;
+  margin-left: 100px;
+margin-top: 30px;
+height: 80px;
+border: 1px solid  gainsboro;
+
+}
+#col5{
+  height: 300px;
+  background-color: whitesmoke;
+}
+
+.grid-container {
+  display: grid;
+
+  grid-gap: 20px;
+  
+}
+#events{
+ margin-left: 70%;
+ position: absolute;
+  top: 330%;
+  width: 20%;
+  height: 30px;
+border: 0px 1px 0px 0px solid gray;
+
+}
+#h3{
+  font-size: 40px;
+  font: serif;
+}
+#p10{
+  font-size: 20px;
+  color: gray;
+  height: 150px;
+}
+.grid-child{
+  height: 30px;
+}
+#p11{
+  font-size: 60px;
+}
+#img5{
+  height: 250px;
+  width: 250px;
+  margin-top: 5%;
+  
+}
+
+
+#container2{
+  background-color: rgb(36, 34, 34);
+  color: gray;
+  margin-top: 10%;
+  font-size: 20px;
+}
+#fa1{
+  color: green;
+}
+h3{
+  text-decoration: underline green;
+  color: white;
+
+
+}
+#whats{
+  background-color: green;
+  color: white;
+}
+.btn-light{
+  margin-top: 20px;
+}
+#home{
+  background-color: cornflowerblue;
+  border-radius: 15px;
+}
+
+ 
+
+.img6{
+  margin-left: 15%
+}
+.img7{
+  margin-right: 10%;
+}
+#h4{
+  margin-top: 50px;
+}
+#p13{
+  margin-top: 40px;
+  margin-left: 30px;
+}
+#p14{
+  margin-left: 30px;
+}
